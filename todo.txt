@@ -1,5 +1,7 @@
 
-# without kernel;
+3 modes: repl, 1 run-program, browser-based;
+
+# [!]: without kernel;
 
 1 output (stdout) {
     1 text render;
