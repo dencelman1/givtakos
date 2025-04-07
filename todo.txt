@@ -1,0 +1,30 @@
+
+# without kernel;
+
+1 output (stdout) {
+    1 text render;
+    2 text scaling;
+    3 multiline input (textarea);
+    4 jit compilation;
+};
+
+2 stdin - user input;
+3 interrupt handling;
+4 memory management - dynamic allocation and freeing up memory;
+5 file system (read, write);
+6 multitasking - threads;
+7 timers and timeouts;
+8 device drivers;
+9 buffered I/O;
+10 networking (tls, socket, tcp, udp);
+11 run programm (run environment - repl mode, programm mode);
+12 Debugging, logging;
+13 scheduler - process execution planning;
+14 event system for program;
+15 virtualization - virtual machine, containers;
+16 password for entering to system;
+
+
+Public libraries:
+1 git;
+2 luks;
